@@ -31,7 +31,7 @@ Features:
    ```
 
 ## Example Output
-Below is a screenshot of the application output:
+Below is the final results of the application:
 
 ```
 Quantum book store | Added book: Quantum book store | PaperBook | ISBN: P123, Title: C++ Primer, Author: Stanley Lippman, Year: 2010, Price: 50, Stock: 5
@@ -65,6 +65,3 @@ Quantum book store | PaperBook | ISBN: P123, Title: C++ Primer, Author: Stanley 
 Quantum book store | EBook | ISBN: E456, Title: Learn Quantum Computing, Author: Alice Quantum, Year: 2022, Price: 30, Filetype: pdf
 ```
 
----
-
-Feel free to extend the system with new book types or features! 
